@@ -13,6 +13,7 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 -->
+TESTDELETEME
 
 This service manages a *stock portfolio*.  The data is backed by two **DB2** tables, communicated with
 via *JDBC*.  The following operations are available:
